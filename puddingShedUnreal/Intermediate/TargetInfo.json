@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "puddingShedUnreal",
+			"Path": "..\\Source\\puddingShedUnreal.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "puddingShedUnrealEditor",
+			"Path": "..\\Source\\puddingShedUnrealEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

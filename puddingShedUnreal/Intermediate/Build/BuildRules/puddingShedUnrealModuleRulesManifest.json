@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Dev\\Mishap\\Github\\pudding-shed-unreal\\puddingShedUnreal\\Source\\puddingShedUnreal\\puddingShedUnreal.Build.cs",
+		"C:\\Dev\\Mishap\\Github\\pudding-shed-unreal\\puddingShedUnreal\\Source\\puddingShedUnreal.Target.cs",
+		"C:\\Dev\\Mishap\\Github\\pudding-shed-unreal\\puddingShedUnreal\\Source\\puddingShedUnrealEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

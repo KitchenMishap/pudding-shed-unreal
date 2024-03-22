@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-puddingShedUnreal.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Dev\Mishap\Github\pudding-shed-unreal\puddingShedUnreal\Intermediate\Build\Win64\x64\puddingShedUnrealEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Dev\Mishap\Github\pudding-shed-unreal\puddingShedUnreal\Intermediate\Build\Win64\x64\UnrealEditor\Development\puddingShedUnreal\puddingShedUnreal.cpp.obj"
+"C:\Dev\Mishap\Github\pudding-shed-unreal\puddingShedUnreal\Intermediate\Build\Win64\x64\UnrealEditor\Development\puddingShedUnreal\Default.rc2.res"
+/OUT:"C:\Dev\Mishap\Github\pudding-shed-unreal\puddingShedUnreal\Intermediate\Build\Win64\x64\UnrealEditor\Development\puddingShedUnreal\UnrealEditor-puddingShedUnreal.lib"
