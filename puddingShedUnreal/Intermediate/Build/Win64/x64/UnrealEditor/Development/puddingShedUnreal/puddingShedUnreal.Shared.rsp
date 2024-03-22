@@ -1,5 +1,8 @@
 /I "."
+/I "C:\Dev\Mishap\Github\pudding-shed-unreal\puddingShedUnreal\Source\puddingShedUnreal\Private"
+/I "C:\Dev\Mishap\Github\pudding-shed-unreal\puddingShedUnreal\Intermediate\Build\Win64\UnrealEditor\Inc\puddingShedUnreal\UHT"
 /I "C:\Dev\Mishap\Github\pudding-shed-unreal\puddingShedUnreal\Source"
+/I "C:\Dev\Mishap\Github\pudding-shed-unreal\puddingShedUnreal\Source\puddingShedUnreal\Public"
 /I "Runtime\Core\Public"
 /I "Runtime\Core\Internal"
 /I "Runtime\TraceLog\Public"

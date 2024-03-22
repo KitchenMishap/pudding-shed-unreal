@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\dev\\mishap\\github\\pudding-shed-unreal\\puddingshedunreal\\intermediate\\build\\win64\\unrealeditor\\inc\\puddingshedunreal\\uht\\spiralbuilderlibrary.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\dev\\mishap\\github\\pudding-shed-unreal\\puddingshedunreal\\intermediate\\build\\win64\\x64\\puddingshedunrealeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\dev\\mishap\\github\\pudding-shed-unreal\\puddingshedunreal\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\puddingshedunreal\\definitions.puddingshedunreal.h",
+            "c:\\dev\\mishap\\github\\pudding-shed-unreal\\puddingshedunreal\\source\\puddingshedunreal\\public\\spiralbuilderlibrary.h",
+            "c:\\dev\\mishap\\github\\pudding-shed-unreal\\puddingshedunreal\\intermediate\\build\\win64\\unrealeditor\\inc\\puddingshedunreal\\uht\\spiralbuilderlibrary.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
